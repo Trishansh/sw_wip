@@ -1,8 +1,8 @@
 var config = {
-    apiKey: "AIzaSyDqogOUnUGzJqSWSdmAFD3XuzR8fB6lUvQ",
-    authDomain: "instifytest-a209b.firebaseapp.com",
-    databaseURL: "https://instifytest-a209b.firebaseio.com",
-    storageBucket: "instifytest-a209b.appspot.com",
-    messagingSenderId: "739385873928"
+    apiKey: "AIzaSyBCxq1ipkD6iIHuozLuQkpNy7yka_YtiMw",
+    authDomain: "instify-9f773.firebaseapp.com",
+    databaseURL: "https://instify-9f773.firebaseio.com",
+    storageBucket: "instify-9f773.appspot.com",
+    messagingSenderId: "786589257934"
   };
   firebase.initializeApp(config);
